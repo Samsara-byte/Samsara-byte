@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently computer engineer student.
 
-- 🌱 I’m currently learning **Spring Boot, FastAPI, Japanese,Kafka,Apache Products.**
+- 🌱 I’m currently learning **Spring Boot, FastAPI, Japanese,Kafka**
 
 - 💬 Ask me about **Linux,Python,Go,Redis.**
 
